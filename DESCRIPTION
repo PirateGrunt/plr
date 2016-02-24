@@ -1,0 +1,10 @@
+Type: Package
+Package: plr
+Title: W
+Description: More about what it does (maybe more than one line)
+Version: 0.1
+Date: 2016-02-24
+Author: Brian A. Fannin
+Maintainer: Brian Fannin <FanninQED@Yahoo.com>
+License:
+LazyData: TRUE
